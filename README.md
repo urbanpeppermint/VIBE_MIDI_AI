@@ -486,8 +486,8 @@ This project is designed as a **starting point** for the community:
 
 - **Snap** — For Spectacles, Lens Studio, and the AI Music Gen template
 - **Google** — For Lyria, Gemini, and the Magenta project that inspires what's next
-- **Spectacles Developer Community** — For pushing boundaries together
--**My dear friend Forouzan Salsabili for sharing many good resources that helped me with this project
+- **Spectacles Developers and Community** — For pushing boundaries together
+- **My dear friend** Forouzan Salsabili for sharing many good resources that helped me with this project
 
 ---
 
