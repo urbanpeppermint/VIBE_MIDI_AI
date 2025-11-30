@@ -13,11 +13,8 @@ Built on AI Music Gen  template, transforms your AR space into a professional DJ
 ## Demo Video
 
 https://github.com/urbanpeppermint/VIBE_MIDI_AI/blob/main/videos/VIBEMIDIDEMO.mov
-## 💡 The Story
 
-All I wanted to do was update my MiNiMIDI project https://www.spectacles.com/lens/c4359defc05147a388f9d5065764b5aa?type=SNAPCODE&metadata=01-- I ended up pushing the boundaries of what's possible with Snap's AI Music Gen template.
-
-**With only 6 days and pure TypeScript, I wanted to demonstrate what further is possible with the in-hand capabilities on Spectacles.**
+I wanted to demonstrate what further is possible with the in-hand capabilities on Spectacles.**
 
 ### The Gap I Found
 
