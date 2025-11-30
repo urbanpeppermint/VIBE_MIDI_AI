@@ -2,7 +2,7 @@
 
 ## AI-Powered Multi-Track Music Mixing for Snap Spectacles
 
-Built on AI Music Gen  template, transforms your AR space into a professional DJ booth. Generate up to **10 simultaneous AI music tracks** using **Google's Lyria model**, then mix them in real-time with an intuitive **MIDI controller-inspired interface** — all through hand gestures in augmented reality.
+Built on top of AI Music Gen template, transforms your AR space into a professional DJ booth. Generate up to **10 simultaneous AI music tracks** using **Google's Lyria model**, then mix them in real-time with an intuitive **MIDI controller-inspired interface** — all through hand gestures in augmented reality.
 
 [![Lens Studio](https://img.shields.io/badge/Lens%20Studio-5.x-yellow)](https://developers.snap.com/lens-studio)
 [![Spectacles](https://img.shields.io/badge/Spectacles-2024-00D4FF)](https://developers.snap.com/spectacles)
@@ -12,9 +12,10 @@ Built on AI Music Gen  template, transforms your AR space into a professional DJ
 ---
 ## Demo Video
 
-https://github.com/urbanpeppermint/VIBE_MIDI_AI/main/videos/VIBEMIDIDEMO.mov
+[https://github.com/urbanpeppermint/VIBE_MIDI_AI/main/videos/VIBEMIDIDEMO.mov
+](https://youtu.be/Yn6YRA2_uvo)
 
-I wanted to demonstrate what further is possible with the in-hand capabilities on Spectacles.**
+With this project I wanted to demonstrate what further is possible with the in-hand capabilities on Spectacles.**
 
 ### The Gap I Found
 
