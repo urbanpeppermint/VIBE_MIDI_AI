@@ -1,0 +1,43 @@
+studioVersion:
+  major: 5
+  minor: 15
+  patch: 0
+  build: 25101318
+  type: Public
+coreVersion: 330
+clientVersion: 13.60
+updateCheckpoint: 76
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: VIBE MIDI
+  lensDescriptors:
+    - EXPERIMENTAL_API
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Spectacles
+  platformBundlesEnabled: false
+  iconHash: 7860c064b108b3e15c22f9abfe612ec8
+  videoPreviewHash: ""
+  fromTemplateName: AI Music Gen
+  fromTemplateUrl: Lens Studio 5.15.0.25101318
+  activationCamera: Front
+  sourceMapEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: 00bf35f6-5fd5-4105-9a19-6ad4e103407c
+  originalDocumentId: 9a2c94d2-53ed-454b-8e18-ab7e6a1ae4dd

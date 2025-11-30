@@ -1,0 +1,71 @@
+- !<AssetImportMetadata/d7cacc74-66a6-4df2-b96d-8de0dec291b5>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> d810f008-a0ff-4feb-b0ba-6f70781205a5
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> d810f008-a0ff-4feb-b0ba-6f70781205a5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 52f06704-c75b-4839-9c6f-ee1abfbf3e02
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/52f06704-c75b-4839-9c6f-ee1abfbf3e02>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00e15f21-c711-48c1-82f2-827f4c69db43
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    animationSpeed: false
+    baseDotSize: false
+    dotContainer: false
+    dotPrefab: false
+    dotsPerTrack: false
+    floatAmplitude: false
+    maxDotSize: false
+    poolDepth: false
+    poolHeight: false
+    poolWidth: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - dotContainer: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      dotPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      dotsPerTrack: !<float> 12.000000
+      poolWidth: !<float> 50.000000
+      poolHeight: !<float> 30.000000
+      poolDepth: !<float> 10.000000
+      baseDotSize: 1.500000
+      maxDotSize: !<float> 4.000000
+      animationSpeed: !<float> 1.000000
+      floatAmplitude: !<float> 3.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject dotContainer
+    - // @input Asset.ObjectPrefab dotPrefab
+    - // @input float dotsPerTrack = 12
+    - // @input float poolWidth = 50
+    - // @input float poolHeight = 30
+    - // @input float poolDepth = 10
+    - // @input float baseDotSize = 1.5
+    - // @input float maxDotSize = 4
+    - // @input float animationSpeed = 1
+    - // @input float floatAmplitude = 3

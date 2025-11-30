@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/189f476a-edf8-4160-9de9-9c3d94775c2c>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ab042482-cb7e-4e30-94a5-20bf2eb915d9
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ab042482-cb7e-4e30-94a5-20bf2eb915d9
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 01de3c40-260c-4f39-a697-ea803f2975e3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/01de3c40-260c-4f39-a697-ea803f2975e3>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 7844f8c6-bdb7-417f-ac06-4cc1c303e04b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    _mixSphere: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - _mixSphere: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject _mixSphere

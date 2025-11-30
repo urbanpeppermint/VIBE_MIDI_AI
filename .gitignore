@@ -1,0 +1,23 @@
+# Lens Studio
+*.lsproj.bak
+*.lsproj.lock
+/Cache/
+/Library/
+/.vscode/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Build outputs
+/Build/
+/Builds/

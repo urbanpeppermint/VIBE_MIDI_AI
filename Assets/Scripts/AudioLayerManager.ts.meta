@@ -1,0 +1,71 @@
+- !<AssetImportMetadata/0d2a41bf-11eb-41a6-8b3d-c24757978fe1>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8e126018-6470-42bf-ada7-b726fac0caf8
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8e126018-6470-42bf-ada7-b726fac0caf8
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 02570493-5e47-4eda-8cdf-1076578fd92c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/02570493-5e47-4eda-8cdf-1076578fd92c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 64fd1a45-36a9-491e-979a-5b2ffab7b0ee
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    _layer0: false
+    _layer1: false
+    _layer2: false
+    _layer3: false
+    _layer4: false
+    _layer5: false
+    _layer6: false
+    _layer7: false
+    _layer8: false
+    _layer9: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - _layer0: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      _layer1: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      _layer2: !<MappingBased.AssignableType_2> 00000000-0000-0000-0000-000000000000
+      _layer3: !<MappingBased.AssignableType_3> 00000000-0000-0000-0000-000000000000
+      _layer4: !<MappingBased.AssignableType_4> 00000000-0000-0000-0000-000000000000
+      _layer5: !<MappingBased.AssignableType_5> 00000000-0000-0000-0000-000000000000
+      _layer6: !<MappingBased.AssignableType_6> 00000000-0000-0000-0000-000000000000
+      _layer7: !<MappingBased.AssignableType_7> 00000000-0000-0000-0000-000000000000
+      _layer8: !<MappingBased.AssignableType_8> 00000000-0000-0000-0000-000000000000
+      _layer9: !<MappingBased.AssignableType_9> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType _layer0
+    - // @input AssignableType_1 _layer1
+    - // @input AssignableType_2 _layer2
+    - // @input AssignableType_3 _layer3
+    - // @input AssignableType_4 _layer4
+    - // @input AssignableType_5 _layer5
+    - // @input AssignableType_6 _layer6
+    - // @input AssignableType_7 _layer7
+    - // @input AssignableType_8 _layer8
+    - // @input AssignableType_9 _layer9

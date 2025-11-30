@@ -1,0 +1,62 @@
+- !<AssetImportMetadata/cf9a417b-1878-4dfd-8695-41371b141fb1>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> d4cd0736-1c1d-4ce1-b600-dfdae7cb3e65
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> d4cd0736-1c1d-4ce1-b600-dfdae7cb3e65
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 20c4c218-ffc4-4c34-b431-733a883f2b19
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/20c4c218-ffc4-4c34-b431-733a883f2b19>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: c8a3c797-e488-4f6b-8b9d-4edff1b1fea4
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    _baseDarkness: false
+    _enableGlow: false
+    _glowIntensity: false
+    _smoothTransitions: false
+    _targetObject: false
+    _transitionSpeed: false
+    _vibrancy: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - _targetObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      _smoothTransitions: true
+      _transitionSpeed: 0.100000
+      _baseDarkness: 0.150000
+      _vibrancy: 1.500000
+      _enableGlow: true
+      _glowIntensity: !<float> 2.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input SceneObject _targetObject {"hint":"Target object (can be RoundedRectangle, RectangleButton, or any mesh)"}'
+    - '// @input bool _smoothTransitions = true {"hint":"Enable smooth color transitions"}'
+    - '// @input float _transitionSpeed = 0.15 {"hint":"Transition speed (0-1, higher = faster)"}'
+    - '// @input float _baseDarkness = 0.15 {"hint":"Base darkness when idle (0-1)"}'
+    - '// @input float _vibrancy = 2.5 {"hint":"Color vibrancy multiplier (1-5)"}'
+    - '// @input bool _enableGlow = true {"hint":"Enable HDR glow (values above 1.0)"}'
+    - '// @input float _glowIntensity = 2 {"hint":"Glow intensity multiplier"}'

@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/4012ea86-fb03-4583-a318-54b50627b91d>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> b6585934-4796-42e3-bae4-a9eadc68ef32
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> b6585934-4796-42e3-bae4-a9eadc68ef32
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 895b6c79-81a6-40e3-b632-e8c17dd1e8d0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/895b6c79-81a6-40e3-b632-e8c17dd1e8d0>
+  Prototype: !<ObjectOwner/3a96a37b-8b6a-4eef-a9f0-0bcdc8068301>
+    PackagePath: ""
+    objects:
+      - !<own> 974ab406-8a65-47f0-5d23-1bfc18d78f25
+- !<SceneObject/974ab406-8a65-47f0-5d23-1bfc18d78f25>
+  PrefabRemaps:
+    []
+  Name: DotSphere
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> df8a2048-9c90-4dfa-423c-3f812571e268
+- !<RenderMeshVisual/df8a2048-9c90-4dfa-423c-3f812571e268>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 478f615e-c71d-4d37-90ae-2c699884592e
+  Mesh: !<reference> 04783743-94ac-47fa-a346-f12f396d91a1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

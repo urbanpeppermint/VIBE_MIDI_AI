@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/fc834441-be49-4832-aaf4-64c3e84b3680>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 21f9c8f4-56b0-4b05-bb44-322e3d61283f
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 21f9c8f4-56b0-4b05-bb44-322e3d61283f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> a2610288-3b5c-440c-b8ca-d312b98fad6e
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/a2610288-3b5c-440c-b8ca-d312b98fad6e>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1e019518-1a1c-4b1d-bdbd-355d238eccc5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    _colorB: false
+    _colorG: false
+    _colorR: false
+    _slider: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - _slider: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      _colorR: !<float> 1.000000
+      _colorG: 0.300000
+      _colorB: 0.500000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType _slider
+    - // @input float _colorR = 1
+    - // @input float _colorG = 0.3
+    - // @input float _colorB = 0.5
