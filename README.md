@@ -12,7 +12,7 @@ Built on AI Music Gen  template, transforms your AR space into a professional DJ
 ---
 ## Demo Video
 
-https://github.com/urbanpeppermint/VIBE_MIDI_AI/blob/main/videos/VIBEMIDIDEMO.mov
+https://github.com/urbanpeppermint/VIBE_MIDI_AI/main/videos/VIBEMIDIDEMO.mov
 
 I wanted to demonstrate what further is possible with the in-hand capabilities on Spectacles.**
 
